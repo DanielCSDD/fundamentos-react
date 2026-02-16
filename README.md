@@ -66,11 +66,19 @@ Este repositório é inspirado no conteúdo do livro:
    ```bash
    git checkout nome-da-branch
    ```
-3. Instale as dependências
+3. Criando Projeto com Vite:
+   ```bash
+      npm create vite@latest react-fundamentos --template react
+   ```
+4. Acessando o diretório do projeto:
+   ```bash
+      cd react-fundamentos
+   ```
+5. Instale as dependências
    ```bash
    npm install
    ```
-4. Execute o projeto
+6. Execute o projeto
    ```bash
    npm run dev
    ```
@@ -98,4 +106,4 @@ Aqui está a estrutura inicial recomendada para o repositório:
     ├── README.md
     └── vite.config.js
   ```
-a
+
