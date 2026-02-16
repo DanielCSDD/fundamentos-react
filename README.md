@@ -68,11 +68,11 @@ Este repositório é inspirado no conteúdo do livro:
    ```
 3. Criando Projeto com Vite:
    ```bash
-      npm create vite@latest react-fundamentos --template react
+   npm create vite@latest react-fundamentos --template react
    ```
 4. Acessando o diretório do projeto:
    ```bash
-      cd react-fundamentos
+   cd react-fundamentos
    ```
 5. Instale as dependências
    ```bash
