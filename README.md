@@ -84,7 +84,7 @@ Este repositório é inspirado no conteúdo do livro:
    ```
 ---
 
-# ✅ Estrutura inicial de um projeto React com Vite (pronto para copiar)
+# ✅ Estrutura inicial de um projeto React com Vite
 
 Aqui está a estrutura inicial recomendada para o repositório:
   ```bash
@@ -106,4 +106,14 @@ Aqui está a estrutura inicial recomendada para o repositório:
     ├── README.md
     └── vite.config.js
   ```
+---
+
+## 👨‍💻 Sobre o Autor
+
+Este repositório foi desenvolvido por **Daniel Luiz Coelho dos Santos**, com o objetivo de documentar sua jornada de estudos em React e consolidar os principais fundamentos da biblioteca.
+
+- 💼 Área de interesse: Desenvolvimento Front-end  
+- 🚀 Objetivo: Evoluir continuamente como desenvolvedor e construir projetos cada vez mais completos utilizando React.
+
+Sinta-se à vontade para acompanhar o progresso nas branches e contribuir com sugestões ou melhorias.
 
